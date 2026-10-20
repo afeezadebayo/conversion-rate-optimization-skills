@@ -90,7 +90,7 @@ Measure net effect on conversion and revenue against a group that sees no messag
 |---|---|
 | Email capture with discount | "Get 10% off your first order" (only if the business can afford it) |
 | Content upgrade | "Download the full checklist as a PDF" |
-| Shipping threshold | "You're \u00a312 away from free delivery" |
+| Shipping threshold | "You're £12 away from free delivery" |
 | Help prompt | "Choosing a plan? Answer two questions for a recommendation" |
 | Exit intent on pricing | "Questions about plans? Talk to us or see the FAQ" |
 
